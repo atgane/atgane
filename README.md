@@ -15,13 +15,9 @@ Shneider electric korea. Ecostruxure demo challenge 2019.04 ~ 2021.02
 
 Software Maestro 2022.04 ~
 
-# 
+# I'm interested in 
 
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF"/>&nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF"/>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF"/>&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
 
 # My BOJ
 
@@ -32,5 +28,3 @@ Software Maestro 2022.04 ~
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atgane&theme=tokyonight&layout=compact)](https://github.com/atgane/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatgane&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
