@@ -13,6 +13,10 @@ SEOULTECH. Mechanical System Design Engineering 2016.03 ~ 2022.02
 
 Shneider electric korea. Ecostruxure demo challenge 2019.04 ~ 2021.02
 
+전기기사 2021.08
+
+공조냉동기계기사 2021.11
+
 Software Maestro 2022.04 ~
 
 # I'm interested in 
