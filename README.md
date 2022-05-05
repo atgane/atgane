@@ -25,7 +25,7 @@ Software Maestro 2022.04 ~
 
 # My BOJ
 
-[![hyper2012](http://mazassumnida.wtf/api/generate_badge?boj=hyper2012)](https://solved.ac/hyper2012)
+[![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=hyper2012)](https://solved.ac/profile/hyper2012)
 # My stats
 
 ![atgane's github stats](https://github-readme-stats.vercel.app/api?username=atgane&show_icons=true&theme=tokyonight)
